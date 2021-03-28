@@ -1,4 +1,4 @@
-//raw array solution
+//raw array solution one
 class LRUCache {
 
     private int[] a;
